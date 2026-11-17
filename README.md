@@ -1,5 +1,17 @@
-# Proyecto-IA-I
+# Modelo predictivo del rendimiento académico en las pruebas Saber 11 a partir de variables socioeconómicas
 
-Presentación entrega 1: [https://canva.link/cfloqf8oucmgsz2](https://canva.link/cfloqf8oucmgsz2)
+![Banner del proyecto](Banner_Proyecto_IA_800x300.png)
 
-Presentación entrega 2: [https://canva.link/iit8px37s1fwvfn](https://canva.link/iit8px37s1fwvfn)
+**Autores:** Alejandra Díaz Navarro, María Camila Cervera Rey
+
+**Objetivo:** Desarrollar y comparar modelos de machine learning que predigan el puntaje global de las pruebas Saber 11 2025 a partir de variables socioeconómicas y escolares, y evaluar qué tan bien generalizan para Santander y para distintos tipos de colegio.
+
+**Dataset:** Resultados de las pruebas Saber 11 publicados por el ICFES, periodos 2025-1 y 2025-2 (569,174 estudiantes inscritos como estudiantes de colegio). Se usan el puntaje global y las variables del hogar, del colegio y del estudiante.
+Descarga: [Resultados ICFES 2019-2025 (Kaggle)](https://www.kaggle.com/datasets/esgaritus/resultados-icfes-2019-2025)
+
+**Modelos:** Regresión lineal, árbol de decisión, Random Forest, SVM, HistGradientBoosting, red neuronal (MLP), información mutua (SelectKBest), Optuna, PCA, t-SNE, K-means, Agglomerative Clustering, DBSCAN, importancia por permutación.
+
+**Enlaces:**
+- Código: [enlace al notebook](PEGAR_ENLACE_DEL_CODIGO)
+- Video: [enlace al video](PEGAR_ENLACE_DEL_VIDEO)
+- Repositorio: [enlace al repositorio](PEGAR_ENLACE_DEL_REPOSITORIO)
