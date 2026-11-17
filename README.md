@@ -15,3 +15,4 @@ Descarga: [Resultados ICFES 2019-2025 (Kaggle)](https://www.kaggle.com/datasets/
 - Código: [enlace al notebook](https://drive.google.com/file/d/1nj7vt6mNO3gOsDwwzavLwaLrhoLgZX2b/view?usp=sharing)
 - Video: [enlace al video](https://youtu.be/aVcWpGFUv9c)
 - Repositorio: [enlace al repositorio](https://github.com/Mcamilacr/Proyecto-IA-I)
+- Diapositivas: [enlace a la presentación](https://canva.link/h5h33q56wajpyhc)
