@@ -12,6 +12,6 @@ Descarga: [Resultados ICFES 2019-2025 (Kaggle)](https://www.kaggle.com/datasets/
 **Modelos:** Regresión lineal, árbol de decisión, Random Forest, SVM, HistGradientBoosting, red neuronal (MLP), información mutua (SelectKBest), Optuna, PCA, t-SNE, K-means, Agglomerative Clustering, DBSCAN, importancia por permutación.
 
 **Enlaces:**
-- Código: [enlace al notebook](PEGAR_ENLACE_DEL_CODIGO)
-- Video: [enlace al video](PEGAR_ENLACE_DEL_VIDEO)
-- Repositorio: [enlace al repositorio](PEGAR_ENLACE_DEL_REPOSITORIO)
+- Código: [enlace al notebook](https://drive.google.com/file/d/1nj7vt6mNO3gOsDwwzavLwaLrhoLgZX2b/view?usp=sharing)
+- Video: [enlace al video](https://youtu.be/aVcWpGFUv9c)
+- Repositorio: [enlace al repositorio](https://github.com/Mcamilacr/Proyecto-IA-I)
